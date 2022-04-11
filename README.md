@@ -1,2 +1,2 @@
 # banner_design
-画报设计
+海报设计
